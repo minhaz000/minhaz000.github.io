@@ -9,4 +9,14 @@
     "photoURL":"https://i.ibb.co/RTwJ7bn/prime-motos.png"
     
   }
+  ,{
+    "_id":2,
+    "title" :" Motors",
+    "description" : "This is great platform from 2nd hand cars or used car . Get your dream car in fair price . ",
+    "live":"https://prime-motors-3df91.web.app/",
+    "client":"https://github.com/minhaz000/prime-motors-client",
+    "server":"https://github.com/minhaz000/prime-motors-server",
+    "photoURL":"https://i.ibb.co/RTwJ7bn/prime-motos.png"
+    
+  }
 ]
