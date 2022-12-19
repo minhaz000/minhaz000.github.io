@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.header{
+  background: #222629 url("../images/banner.jpg");
+}
+.theme-background {
+  background-color: #003b2c;
+   color : #cbcbd3
+}
+.active{
+ background-color: #051e10;
+  color:  #fff;
+}
+.btn-outline:hover{
+  color:  #fff !important;
+}
