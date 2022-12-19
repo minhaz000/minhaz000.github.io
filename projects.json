@@ -11,12 +11,22 @@
   }
   ,{
     "_id":2,
-    "title" :" Motors",
-    "description" : "This is great platform from 2nd hand cars or used car . Get your dream car in fair price . ",
-    "live":"https://prime-motors-3df91.web.app/",
-    "client":"https://github.com/minhaz000/prime-motors-client",
-    "server":"https://github.com/minhaz000/prime-motors-server",
-    "photoURL":"https://i.ibb.co/RTwJ7bn/prime-motos.png"
+    "title" :"MR Rocks",
+    "description" : "A Digital Online Learning Platform . This Platform You Will Get Advanced Course Focuses On Topics Like Redis For Caching, Worker Threads And Clustering, And Integrating Image Uploads Using Node And S3! Students ",
+    "live":"https://assignment-10-502ae.web.app/",
+    "client":"https://github.com/minhaz000/mr-rocks-client",
+    "server":"https://github.com/minhaz000/mr-rocks-server",
+    "photoURL":"https://i.ibb.co/vJ1vvdD/mr-rocks.png"
+    
+  },
+  {
+    "_id":3,
+    "title" :"Service Review",
+    "description" : " Capture Every Precious Moment With Us Simply select your photo shoot package in almost any city and I will be there shortly.",
+    "live":"https://assignment-11-7a5ed.web.app/",
+    "client":"https://github.com/minhaz000/service-review-client",
+    "server":"https://github.com/minhaz000/service-review-server",
+    "photoURL":"https://i.ibb.co/5Fcc9qc/services-reviews.png"
     
   }
 ]
