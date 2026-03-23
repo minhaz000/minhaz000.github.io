@@ -18,7 +18,7 @@ function Header(props) {
             <img className='  h-[70px] w-[70px]' src="/images/me.jpeg" alt="" />
       </div>
     
-      <h1 className='col-span-3 mt-5 text-xl font-bold'> Minhaz Rahman</h1>
+      <h1 className='col-span-3 mt-5 text-xl font-bold'> Minhajur Rahman</h1>
       <h1 className='col-span-3 mb-8'> MERN stack developer </h1>
      </div>
      
@@ -35,8 +35,8 @@ function Header(props) {
     
       <div className='absolute bottom-5  flex justify-center w-full  text-2xl [&>*]:mx-2'>
 <a target='_blank' href=" https://github.com/minhaz000"> <FaGithub /> </a>
-<a target='_blank'  href=" https://wa.me/+8801533361322"> <FaWhatsapp /> </a>
-<a target='_blank'  href=" https://www.facebook.com/minhaz3301/"> <FaFacebook /></a>
+<a target='_blank'  href=" https://wa.me/+3579457501"> <FaWhatsapp /> </a>
+{/* <a target='_blank'  href=" https://www.facebook.com/minhaz3301/"> <FaFacebook /></a> */}
 <a target='_blank'  href=" https://www.instagram.com/mrmminhaz/"> <FaInstagram /> </a>
 <a target='_blank'  href=" https://www.linkedin.com/in/minhaz000/"> <FaLinkedin /> </a>
       </div>
