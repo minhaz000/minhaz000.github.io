@@ -1,5 +1,4 @@
 name: Deploy Portfolio to gh-pages
-
 on:
   push:
     branches:
@@ -22,7 +21,7 @@ jobs:
         run: npm install
 
       - name: Build Project
-        run: npm run build
+        run: CI=false npm run build
 
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v4
