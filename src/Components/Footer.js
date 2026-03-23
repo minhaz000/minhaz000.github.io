@@ -7,7 +7,7 @@ function Footer(props) {
   <div className="text-center flex ">
     Copyright © 2022 - All right reserved update 
     676
-  I'm   <span className=' text-cyan-300 font-bold cursor-pointer'> <a href=""> Minhaz Rahman</a>  </span> 
+  I'm   <span className=' text-cyan-300 font-bold cursor-pointer'> Minhaz Rahman </span> 
   </div> 
 </footer>
     </>
