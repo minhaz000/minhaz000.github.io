@@ -31,6 +31,7 @@ function Parallax(props) {
     <section id='about' className="sec px-10 py-16">
         <h2 className=' text-center text-4xl uppercase pb-10'>About me </h2>
         <p>
+        I am a MERN stack developer with a non-CSE background, currently based in 1700 Gazipur, Bangladesh. I am pursuing Civil Technology at Dhaka Polytechnic Institute. Interestingly, although I trained as a civil engineer, I discovered a passion for programming and decided to follow it. I enjoy challenges, and I find difficult problems especially interesting—they motivate me to learn and grow.
         I am a MERN stack developer from non-CSE background .
         I live in 1700 Gazipur , Bangladesh . 
         Currently studying in <span className='font-semibold italic'> Dhaka Polytechnic Institute </span>  in  <span className='font-semibold italic'> Civil Technology . </span> 

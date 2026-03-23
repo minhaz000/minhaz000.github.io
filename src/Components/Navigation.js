@@ -15,7 +15,7 @@ function Header(props) {
     <ul className="menu  w-[300px]  pt-10 theme-background   ">
      <div className='ml-auto text-right px-5 md:px-10 mb-10 md:mb-0 grid grid-cols-4 md:grid-cols-1 '> 
       <div className='row-span-2 mt-3 col-span-1 grid justify-items-end '> 
-            <img className='  h-[70px] w-[70px]' src="/images/avatar.jpg" alt="" />
+            <img className='  h-[70px] w-[70px]' src="/images/me.jpeg" alt="" />
       </div>
     
       <h1 className='col-span-3 mt-5 text-xl font-bold'> Minhaz Rahman</h1>

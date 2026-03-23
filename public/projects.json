@@ -28,5 +28,15 @@
     "server":"https://github.com/minhaz000/service-review-server",
     "photoURL":"https://i.ibb.co/5Fcc9qc/services-reviews.png"
     
+  },
+  {
+    "_id":3,
+    "title" :"X-store",
+    "description" : " A fully-featured e-commerce platform designed to host multiple client sites on a single server, with secure payment integration and subscription management.",
+    "live":"https://",
+    "client":"https://github.com/minhaz000/x-store-client",
+    "server":"https://github.com/minhaz000/x-store-client-server",
+    "photoURL":"https://i.ibb.co/5Fcc9qc/services-reviews.png"
+    
   }
 ]
