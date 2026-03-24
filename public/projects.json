@@ -5,7 +5,7 @@
     "description" : " A fully-featured e-commerce platform designed to host multiple client sites on a single server, with secure payment integration and subscription management.",
     "live":"",
     "client":"https://github.com/minhaz000/x-store-client",
-    "server":"https://github.com/minhaz000/x-store-client-server",
+    "server":"https://github.com/minhaz000/x-store-server",
     "photoURL":"https://i.ibb.co/tMPTnbG3/1774286611427.png"
     
   },
