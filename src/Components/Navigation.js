@@ -35,7 +35,7 @@ function Header(props) {
     
       <div className='absolute bottom-5  flex justify-center w-full  text-2xl [&>*]:mx-2'>
 <a target='_blank' href=" https://github.com/minhaz000"> <FaGithub /> </a>
-<a target='_blank'  href=" https://wa.me/+3579457501"> <FaWhatsapp /> </a>
+<a target='_blank'  href=" https://wa.me/+35794575017"> <FaWhatsapp /> </a>
 {/* <a target='_blank'  href=" https://www.facebook.com/minhaz3301/"> <FaFacebook /></a> */}
 <a target='_blank'  href=" https://www.instagram.com/mrmminhaz/"> <FaInstagram /> </a>
 <a target='_blank'  href=" https://www.linkedin.com/in/minhaz000/"> <FaLinkedin /> </a>
