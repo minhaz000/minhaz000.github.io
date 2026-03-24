@@ -5,8 +5,8 @@ function ProjectDetails(props) {
   const {currentProject} = useContext( RootContext)
   console.log( currentProject)
   return (
-    <div>
-      <div>
+    <div className="pl-4">
+      <div >
       <a className='' href={currentProject.live}>
       <img className=' h-[300px] w-[500px]' src={currentProject.photoURL} alt="" />
       </a>
