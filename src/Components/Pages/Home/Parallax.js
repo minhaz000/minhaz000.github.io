@@ -31,13 +31,9 @@ function Parallax(props) {
     <section id='about' className="sec px-10 py-16">
         <h2 className=' text-center text-4xl uppercase pb-10'>About me </h2>
         <section id="about">
-  <h2>About Me</h2>
-  <p>
-    I am a MERN stack developer with a non-CSE background, currently based in 1700 Gazipur, Bangladesh.
-    I am pursuing Civil Technology at Dhaka Polytechnic Institute. Interestingly, although I trained
-    as a civil engineer, I discovered a passion for programming and decided to follow it.
-    I enjoy challenges, and I find difficult problems especially interesting—they motivate me to learn and grow.
-  </p>
+ I am a MERN stack developer with a non-CSE background, currently based in Gazipur, Bangladesh. I pursued Civil Technology at Dhaka Polytechnic Institute. Interestingly, I am currently studying at Casa College in Nicosia, Cyprus.
+<br/>
+Although I was trained as a civil engineer, I discovered a passion for programming and decided to pursue it as a career. I enjoy challenges and find difficult problems especially interesting—they motivate me to learn and grow.
 </section>
         <Intro> </Intro> 
     </section>

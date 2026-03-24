@@ -14,7 +14,7 @@ function Header(props) {
     </div>
   </div>
   <div className="navbar-center">
-    <Link to={'/'} className=" normal-case  text-xl cursor-pointer">  Minhaz Rahman</Link>
+    <Link to={'/'} className=" normal-case  text-xl cursor-pointer">  Minhaj Rahman</Link>
   </div>
   <div className="navbar-end">
     <button className="btn btn-ghost btn-circle">
